@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">My_First_app</string>
     <string name="Go_away_spidey">0</string>
-    <string name="random_heading">Here is a random number between %1d and %1d.</string>
+    <string name="random_heading">Here is a random number between 0 and %1d.</string>
 </resources>
